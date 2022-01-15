@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kishore</groupId>
-	<artifactId>springboot-projects</artifactId>
+	<artifactId>springboot-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-projects</name>
 	<description>Spring Boot Projects</description>
